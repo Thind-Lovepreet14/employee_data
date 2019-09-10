@@ -1,0 +1,64 @@
+{
+    "employees": [
+        {
+            "employeeID": "1",
+            "name": "Nancy Davolio",
+            "salary": "40000",
+            "department": "Sales"
+        },
+        {
+            "employeeID": "2",
+            "name": "Andrew Fuller",
+            "salary": "47000",
+            "department": "Sales"
+        },
+        {
+            "employeeID": "3",
+            "name": "Janet Leverling",
+            "salary": "50000",
+            "department": "Marketing"
+        },
+        {
+            "employeeID": "4",
+            "name": "Margaret Peacock",
+            "salary": "45000",
+            "department": "Marketing"
+        },
+        {
+            "employeeID": "5",
+            "name": "Steven Buchanan",
+            "salary": "40000",
+            "department": "HR"
+        },
+        {
+            "employeeID": "6",
+            "name": "Michael Suyama",
+            "salary": "43000",
+            "department": "HR"
+        },
+        {
+            "employeeID": "7",
+            "name": "Robert King",
+            "salary": "55000",
+            "department": "Finance"
+        },
+        {
+            "employeeID": "8",
+            "name": "Laura Callahan",
+            "salary": "50000",
+            "department": "Finance"
+        },
+        {
+            "employeeID": "9",
+            "name": "Anne Dodsworth",
+            "salary": "45000",
+            "department": "Accounting"
+        },
+        {
+            "employeeID": "10",
+            "name": "Adam West",
+            "salary": "44000",
+            "department": "Accounting"
+        }   
+    ]    
+}
